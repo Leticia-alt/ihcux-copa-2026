@@ -9,10 +9,13 @@ Curso: Ciência da Computação
 Disciplina: Interação Humano Computador e UX  
 Professor: Daniel Henrique Matos de Paiva
 
-Problema focado: garantir praticidade e agilidade na realização de pedidos em meio ao caos e à agitação de um jogo de futebol.
+Problema focado:
+garantir praticidade e agilidade na realização de pedidos em meio ao caos e à agitação de um jogo de futebol.
 
-Justificativa de design: utilizar cores para atrair a atenção, garantir fácil compreensão, evitar excesso de informações na tela e proporcionar uma conclusão rápida.
+Justificativa de design:
+utilizar cores para atrair a atenção, garantir fácil compreensão, evitar excesso de informações na tela e proporcionar uma conclusão rápida.
 
+Fluxo do Usuário:
 1- Escanear o ingresso ou acessar com SMS.
 2- Digitar o código enviado para o celular.
 3 - Clicar em “Pedidos”.
