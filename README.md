@@ -4,6 +4,7 @@ Integrantes :
 •João Augusto Miranda Viana de Souza
 •Luana Xavier Monteiro
 •Pedro Morais Hilbert 
+-Eduarda Luisa Vitória
 - Daniel de Almeida Vieira 
 Curso: Ciência da Computação
 Disciplina: Interação Humano Computador e UX  
